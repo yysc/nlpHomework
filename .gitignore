@@ -1,0 +1,6 @@
+.DS_Store
+train.txt
+test.txt
+train.tok
+convert_test.txt
+convert_trains.txt
